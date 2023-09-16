@@ -1,3 +1,6 @@
+"""
+Project configuration file
+"""
 import sys
 from os import path
 
